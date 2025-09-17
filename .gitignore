@@ -6,11 +6,6 @@ venv/
 logs/
 *.log
 
-# Ignorar dados gerados
-data/
-datasets/
-*.csv
-
 # Ignorar configs do sistema
 .DS_Store
 Thumbs.db
