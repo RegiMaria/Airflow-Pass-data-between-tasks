@@ -1,5 +1,5 @@
 ## Study Project with Apache Airflow:Passing Data Between Tasks ##
-[Para acessar o vídeo dessa tarefa clique aqui](https://www.youtube.com/watch?v=AGbUmwZVTY4)
+[Para acessar o vídeo dessa tarefa clique aqui](https://www.youtube.com/watch?v=QE3LxOoC6kI)
 
 This repository has a set of simple ETL DAGs made to learn the basic concepts of Apache Airflow.
 
@@ -22,7 +22,7 @@ By studying this repository, you will learn:
 
 
 ## Estrutura do Repositório ##
-
+```
 .
 ├── dags/
 │   ├── etl_pipeline_aula.py        # DAG 1 - Versão simples (retorno em dicionário)
@@ -39,6 +39,7 @@ By studying this repository, you will learn:
 │── init.sh                       # SETUP Airflow
 │── requirements.txt
 └── README.md                     # Este guia
+``` 
 
 ## Requirements ##
 
