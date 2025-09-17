@@ -1,0 +1,17 @@
+# Ignorar ambientes virtuais
+venv/
+.env/
+
+# Ignorar arquivos de log
+logs/
+*.log
+
+# Ignorar dados gerados
+data/
+datasets/
+*.csv
+
+# Ignorar configs do sistema
+.DS_Store
+Thumbs.db
+

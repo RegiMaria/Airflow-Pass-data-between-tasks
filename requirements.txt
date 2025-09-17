@@ -1,0 +1,9 @@
+# Main Airflow package (use the same version as in your docker-compose)
+apache-airflow==2.7.1
+
+# Extra providers (if running locally you may need to install them separately)
+ # apache-airflow-providers-docker
+# apache-airflow-providers-postgres
+
+# For working with data
+pandas
